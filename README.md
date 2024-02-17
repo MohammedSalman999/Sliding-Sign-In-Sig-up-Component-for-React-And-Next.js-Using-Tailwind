@@ -30,5 +30,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 
 ![Screenshot 1](https://github.com/MohammedSalman999/Sliding-Sign-In-Sig-up-Component-for-React-And-Next.js-Using-Tailwind/raw/main/Screenshot%20(74).png)
+![Screenshot 2](https://github.com/MohammedSalman999/Sliding-Sign-In-Sig-up-Component-for-React-And-Next.js-Using-Tailwind/raw/main/Screenshot%20(75).png)
 
 
